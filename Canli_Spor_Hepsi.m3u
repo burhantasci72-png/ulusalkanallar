@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 25.12.2025 21:37:34
+# Son Guncelleme: 25.12.2025 22:12:05
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TURKIYE DEATHLESS",TR:Trt 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -59,10 +59,7 @@ https://yildiziptv-turktv.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/va
 https://yildiziptv-turktv.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/vavoo-iptv/play/3694662475b76c08f52108
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-sports-hd-1-1.png" group-title="VAVOO SPOR",VAVOO: beIN SPORTS MAX 1
 https://yildiziptv-turktv.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/vavoo-iptv/play/2832430535849b88f81e2d
-#EXTINF:-1 group-title="NETSPOR MACLAR",OKC Thunder - SA SpursCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",GS Warriors - Dallas Mavericks
+#EXTINF:-1 group-title="NETSPOR MACLAR",GS Warriors - Dallas MavericksCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",LA Lakers - Houston Rockets
@@ -71,6 +68,9 @@ https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Denver Nuggets - Minnesota TW
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fenerbahçe İstanbul Jet - Karabük Demir Kartal
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Angola - Zimbabve
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
@@ -80,6 +80,9 @@ https://andro.adece12.sbs/checklist/androstreamliveht.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Misir - Güney Afrika
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fenerbahçe Gelişim - Darica Basketbol Feneri
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Tofaş - Bahçeşehir Klj
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
@@ -104,54 +107,63 @@ https://andro.adece12.sbs/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Virtus Bologna - Olympiakos
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Manchester Utd - Newcastle
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Fas - Mali
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Whitecaps + - Sounders +CANLI
+#EXTINF:-1 group-title="NETSPOR MACLAR",Manchester Utd - Newcastle
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995929.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Universal (3x3) - Speed (3x3)CANLI
+https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Timber + - Bulls +CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995960.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",FOSSIL - PSYCANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996008.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Graafschap (Amatörler) - Excelsior (Amatörler)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995948.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",LANDSCAPE - MINERALOGYCANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996043.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Rambala (2x2) - Presto (2x2)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995951.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Waalwijk (Amatörler) - Volendam (Amatörler)CANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996096.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Charlotte + - Sacramento +CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995956.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Montreal + - Tampa Bay +CANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996058.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fiore (3x3) - Zampa (3x3)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995967.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Paderborn (Amatörler) - Freiburg (Amatörler)CANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996082.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Augsburg (Amatörler) - Hoffenheim (Amatörler)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995981.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Koln (Amatörler) - Union (Amatörler)CANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996075.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Arminia (Amatörler) - Greuther Furth (Amatörler)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995980.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17996076.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",ENERGY - CADASTRECANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17996078.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",IT - MECHCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17996072.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Whitecaps + - Timber +CANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17996095.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Nizhny Novgorod - KrasnoyarskCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995912.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Skyforce - StarsCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995895.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Nizhny Novgorod - VolgogradCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17996093.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Kristina Kovalevych - Daria KolpakCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995901.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Yuri Pirogov - Petr LoganovCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995872.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Stepan Nikolaev - Dmitry KryukovCANLI
+#EXTINF:-1 group-title="NETSPOR MACLAR",Oleg Pesherov - Nikolay NasenkovCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995429.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Anna Novogran - Vladislava SilitskayaCANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996037.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Valery Desh - Pavel Ivanov A.CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995795.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17996088.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Old Town - Mountain DevilsCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995909.m3u8
@@ -161,12 +173,15 @@ https://andro.adece12.sbs/checklist/androstreamlivech17995906.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Mısır - SırbistanCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995963.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Arjantin - JaponyaCANLI
+#EXTINF:-1 group-title="NETSPOR MACLAR",Arjantin - PolonyaCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995689.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Küba - ÇinCANLI
+https://andro.adece12.sbs/checklist/androstreamlivech17996099.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Mozambik - AvustralyaCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech17995771.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivech17996065.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Slovakya - UkraynaCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech17996066.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",ABD (Bayanlar) - Çin (Bayanlar)CANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech17995721.m3u8
